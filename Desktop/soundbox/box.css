@@ -23,11 +23,11 @@ body {
 
 #c {
 	background-color: red;
-	border: 3px solid-red;
+	border: 3px blue;
 }
 #d {
 	background-color: blue;
-	border: 3px solid-blue;
+	border: 3px white;
 }
 #e {
 	background-color: yellow;
@@ -51,10 +51,33 @@ body {
 }
 
 #c:hover {
-    background-color:#661920;
+    background-color:#b30000;
     cursor: pointer;
 }
 
-
+#d:hover {
+    background-color:#000066;
+    cursor: pointer;
+}
+#e:hover {
+    background-color:#cccc00;
+    cursor: pointer;
+}
+#f:hover {
+    background-color:#006600;
+    cursor: pointer;
+}
+#g:hover {
+    background-color:#ff944d;
+    cursor: pointer;
+}
+#a:hover {
+    background-color:#ff4dd2;
+    cursor: pointer;
+}
+#b:hover {
+    background-color:#9933ff;
+    cursor: pointer;
+}
 
 
